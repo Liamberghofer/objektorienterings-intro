@@ -1,0 +1,2 @@
+boss_styrka2 = 5
+print(f"Bossens styrka är"boss_styrka2")
